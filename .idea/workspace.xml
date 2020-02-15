@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8730dcf0-bcc4-4624-92e6-04414d0fff32" name="默认更改列表" comment="" />
+    <list default="true" id="8730dcf0-bcc4-4624-92e6-04414d0fff32" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="untitled1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +50,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
@@ -67,8 +81,16 @@
       <workItem from="1581653620316" duration="14000" />
       <workItem from="1581653648034" duration="5696000" />
       <workItem from="1581665563675" duration="1137000" />
-      <workItem from="1581666719298" duration="1675000" />
+      <workItem from="1581666719298" duration="7231000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1581738728743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581738728744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +109,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="556" y="186" key="#Notifications" timestamp="1581666777934">
       <screen x="0" y="0" width="1920" height="1049" />
@@ -96,10 +122,14 @@
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="419" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1581667173560" />
-    <state x="579" y="123" key="CommitChangelistDialog2" timestamp="1581666662091">
+    <state x="556" y="185" key="#项目结构" timestamp="1581739408693">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
-    <state x="579" y="123" key="CommitChangelistDialog2/0.0.1920.1049@0.0.1920.1049" timestamp="1581666662091" />
+    <state x="556" y="185" key="#项目结构/0.0.1920.1049@0.0.1920.1049" timestamp="1581739408693" />
+    <state x="579" y="123" key="CommitChangelistDialog2" timestamp="1581738725715">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="579" y="123" key="CommitChangelistDialog2/0.0.1920.1049@0.0.1920.1049" timestamp="1581738725715" />
     <state x="744" y="267" key="FileChooserDialogImpl" timestamp="1581665606753">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
@@ -116,10 +146,18 @@
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="465" y="168" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1581651437954" />
+    <state x="556" y="259" key="Vcs.Push.Dialog.v2" timestamp="1581741752009">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="556" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1049@0.0.1920.1049" timestamp="1581741752009" />
     <state x="756" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581667145888">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="756" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1049@0.0.1920.1049" timestamp="1581667145888" />
+    <state x="748" y="317" key="git4idea.merge.GitPullDialog" timestamp="1581740232528">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="748" y="317" key="git4idea.merge.GitPullDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1581740232528" />
     <state x="338" y="221" key="new project wizard" timestamp="1581666786367">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
